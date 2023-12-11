@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/marye/OneDrive/Desktop/FinalProjectGameProgramming/MFarooqiFInalProject/MFarooqiFinalProject/MFarooqiFinalProject/Content/Fonts/HilightFont.spritefont</SourceFile>
+  <SourceTime>2019-12-03T11:48:01.5832244-05:00</SourceTime>
+  <DestFile>C:/Users/marye/OneDrive/Desktop/FinalProjectGameProgramming/MFarooqiFInalProject/MFarooqiFinalProject/MFarooqiFinalProject/Content/bin/Windows/Fonts/HilightFont.xnb</DestFile>
+  <DestTime>2019-12-08T22:46:03.4520725-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T10:05:36-05:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T10:05:36-05:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
